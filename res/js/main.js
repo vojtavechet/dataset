@@ -1,4 +1,4 @@
-const boxes = document.getElementsByClassName("box");
+const boxes = document.getElementsById("box");
 
 
 [...boxes].forEach((box ) =>{
